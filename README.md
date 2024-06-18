@@ -25,10 +25,10 @@ File structure:
 
 - Clone the forked repository to your local machine by running the following commands in your terminal:
 
-    git clone https://github.com/DevTomUK/ViteFirestore.git
-    cd ViteFirestore
-    npm i
-    touch /src/config.js (type NUL > src\config.js in windows, or open the folder and create config.js in ./src)
-    code .
+    git clone https://github.com/DevTomUK/ViteFirestore.git  
+    cd ViteFirestore  
+    npm i  
+    touch /src/config.js (type NUL > src\config.js in windows, or open the folder and create config.js in ./src)  
+    code .  
 
 - Go to config.js and add your firebaseConfig
